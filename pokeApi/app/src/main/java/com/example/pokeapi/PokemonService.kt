@@ -4,5 +4,5 @@ import retrofit2.Call
 import retrofit2.http.GET
 interface PokemonService {
     @GET("pokemon/{id}")
-    fun getPokemonDetails(): Call<Pokemon>
+    fun getPokemonDetails(randomPokemonId: Int): Call<Pokemon>
 }
