@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gitlab.arturbosch.detekt:detekt-formatting:1.22.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.gitlab.arturbosch.detekt" artifactId="detekt-formatting" version="1.22.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-formatting/1.22.0/b640cd6c6b13fa69aa3f1b192233994b1e585e5c/detekt-formatting-1.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-formatting/1.22.0/ff88b4a42fdf9ee1f8f69de0f98dcd1e68698145/detekt-formatting-1.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

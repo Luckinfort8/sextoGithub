@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pinterest.ktlint:ktlint-ruleset-experimental:0.47.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.pinterest.ktlint" artifactId="ktlint-ruleset-experimental" version="0.47.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pinterest.ktlint/ktlint-ruleset-experimental/0.47.1/f04928f939a0175917fc4058623769e81fb989d4/ktlint-ruleset-experimental-0.47.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pinterest.ktlint/ktlint-ruleset-experimental/0.47.1/809afd2578721e268f70ef6014a7ad2cfca5d694/ktlint-ruleset-experimental-0.47.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

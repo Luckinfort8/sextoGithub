@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ec4j.core:ec4j-core:0.3.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.ec4j.core" artifactId="ec4j-core" version="0.3.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ec4j.core/ec4j-core/0.3.0/fbe9f33ab6ba108316c6e4ef986f960cff190d3d/ec4j-core-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ec4j.core/ec4j-core/0.3.0/ab2b1b2b1f527badab2e35f07c90bf65f0fd7883/ec4j-core-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

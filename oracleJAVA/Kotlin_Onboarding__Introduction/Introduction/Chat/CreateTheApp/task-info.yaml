@@ -1,0 +1,28 @@
+type: edu
+custom_name: Create the app
+files:
+  - name: src/main/kotlin/Main.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 46
+        placeholder_text: |-
+          fun main() {
+              // Write your solution here
+          }
+        initial_state:
+          length: 46
+          offset: 0
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: NDA7NYDJ4pT3F7ChgC7OnX2cBQ4JZdAn8P9khwx8purfoFgD+qR3KQy4htmAOMS/HaLuGEWZNZjSxYE4a9IT+7pdbQ6RJh5xXKhFzlO3qqOZNFtJZjHsQ/ES6bL4SM59ry+skfqj5jLBaTm1e6yUxdvh9IAVA3i6WsAXL6jLziH1vMqh3agJ3pIiLRHoBTEIuwenPSnwx2aUeipwbQwSSk4a2be8r4J33PucjeNyepxyudlBvxsu0rV7SCfjm66bv4isxjCiK1DjgkTa4UIIm91AfhE5MuppnxFiCAg2GPPJbWKI5I8k79wtp9Gcatv1E+TdAe9gAc7y91FrFloOdzFNENk3GaHVH5sE+fwrrWt8mdIlkq34PuYXS7Xw3CTt3ihiUkbiKuA1PdNKWNlS+l5wUB+UOIE30qs1m5ajcZAOTVYM+7c614tEGazrM/V2En/Qi7ATcZ/M5Zs87nqMieSBCamCgKfbVcffqWBDA5+m74zcubJgmKqMYZFeTdocn5aTjLpiE5WKRfdT7e0FmS3IUwzpXEJN65rB/8nMqa4=
+    encrypted_text: NDA7NYDJ4pT3F7ChgC7OnY7PiQg0Z9w3V0uXkpoQ4U1bA82PIPbBUwzzqamNfgOY
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nG8aCRRNu9s0lIhzUcCHksplIXL0LRqPRXmC0RaHEm6x62b+WDDSwIZu2F52cYCiXGONsGqagTf8juZ6j8EhEE+i9wzAOA31ZNzHtwGPJdYJuRYskEhjOOAkjrUR+wDeJ13Ubmkit0vnp7G2yAXvoAe+uVHmj3EljcfEorvb0jY+2Hi3HE6rq+L7k4mbhic3ZB7yLiJWoC2vfJgIK8OnUnp3rqhBCRL5qizF61WcoBkBnohNh7WVvV0WgZvM7TRvPdTEKY5SZDKzDMNJ7NbfUIRm1GYOU2Y5xPdhOx5oZ0o5uQM1xmg4EjHCV0PfDnu6aAssDEUiGd95cTNRRAqhirJzPfhFVkQ05Y/A3qb4yeJQG6mVffCG0hiQxFzBTKYHZCyuB5iHPlOPq4M/GywyftkWMhXW4nyTjTYIzlXnvhVwPyQvy2L6+TQg0tcJkkjF0JaECQvwPboq79TjLNhmuSBSK7rDxkAq1CqZ+25cBmBSkUCM34e2gw7/J2D08SetQjnO0UODlX8vHZvHXubIJohEMLCF3OhBnqPIOHLtgwL9HnzUVX2PjsTwXbdQcVpr9aKzxXnQHgI1NIJKE/qQKPolAG+kOYpg3o+/s/7dn63nIrYHjWGH8wTW2PA8EUKT2DSWyBmHIPjcjNX2LVnGhNS8P+BPnlLhNNiVhvv9arYiQ2kq0koNQwFbgVJ/9nXiM6AUcglienJywcPTT0Xcaab9jAYd0XLcJ2e9D6KNBdrwi68NfSV2SIUkSMINmt37KsW8Bw9SVRjl1YcpIoNgQaFUU7jjbSwBHdq9qFF0uzwINRvqr1Msy/liTErnhqk2n+Oe+FKjwPqCDIPtqSJt6Uo5njWqTpfLoGJf3J/J9dGmDEshDAL0PaxjGR/CcxjZNNa8DEwn2nFgXgUSB0eYaLAu+2axjjlmRHLMkwYo/gyFI6jcLvukAoFmcGsBDaPJn+dw247QUBoo4H7N9mI+R2w7N4ipiEIJ8+bcT7BIdLCQNKGABauJSjckuMTQY4X6aLgZRUSwmI+18yRpZbvwhSepGdZ/oa/EWurQCp+X7tUXGryCXTyfNhdz+JkoFj7mZC4dl3r5ZdhVMhrcjHNVdZ2QC6YlQ3KoDRjIZJVCdpCNvh70S8K+gpmGghWO/itkZfDKusHBv5lKsSWdeZrKDoE=
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/Chat/Create+the+app
+status: Unchecked
+record: -1

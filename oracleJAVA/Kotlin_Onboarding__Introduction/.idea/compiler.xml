@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="CSC_Kotlin_Course.Introduction-AlmostDone-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-AlmostDone-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-Chat-CreateTheApp.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-Chat-CreateTheApp.test" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-FeedbackSurvey-Survey.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-FeedbackSurvey-Survey.test" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-Hangman-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-Hangman-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-LastPush-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-LastPush-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-TheFirstDateWithProgramming-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-TheFirstDateWithProgramming-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-WarmUp-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-WarmUp-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.main" target="11" />
+      <module name="CSC_Kotlin_Course.test" target="11" />
+      <module name="CSC_Kotlin_Course.utils.main" target="11" />
+      <module name="CSC_Kotlin_Course.utils.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

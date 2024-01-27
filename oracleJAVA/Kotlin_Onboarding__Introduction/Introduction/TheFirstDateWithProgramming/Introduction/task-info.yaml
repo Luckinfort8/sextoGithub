@@ -1,0 +1,17 @@
+type: theory
+custom_name: Introduction
+files:
+  - name: src/main/kotlin/Main.kt
+    visible: true
+    encrypted_text: NDA7NYDJ4pT3F7ChgC7OnfPyyg0ifEpsqWUZJbocupdn87kQqfZyiS4tO/wiXWNb7bqvAnObFmvWVhKwstNXHw==
+    learner_created: false
+  - name: src/main/kotlin/RealQuestions.kt
+    visible: false
+    encrypted_text: Oy/gDnbNPSzsPCVDBSqOQo4c2ok/X683JY+3DbdKq6EpijKcEE5D+ctovBwoEn7ZlQ4upjY9hyNMJdC8Y/I1tHQDfMJ58ysF8pmidKyGaf642dnQHM+djrfA2Sb6SuswP6JR437VHrmYgpw63Lq/r5WgNHIZZPfXgo4p319FvNYG+h3KxsdfH9U8WDerooOzBsb3pc4te88b8f7s87pCy4J/sY5tWKIznbwY+asfqhp8dqDsWtjeI8+nzh7fBAq2k0Mb0kvEy+2io4tR3G4rAg==
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/The+first+day+with+programming/Introduction
+status: Solved
+feedback:
+  time: "Wed, 20 Sep 2023 22:45:31 UTC"
+record: 1
+post_submission_on_open: true

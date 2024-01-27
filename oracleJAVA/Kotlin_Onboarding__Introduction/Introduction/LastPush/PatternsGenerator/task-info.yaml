@@ -1,0 +1,19 @@
+type: theory
+custom_name: Patterns generator project
+files:
+  - name: src/main/kotlin/Main.kt
+    visible: true
+    encrypted_text: NDA7NYDJ4pT3F7ChgC7OnUu1kd+H6lyR2ugc177cVQB7yuy04i8fQgRdvXX2bOUA
+    learner_created: false
+  - name: src/main/kotlin/Patterns.kt
+    visible: false
+    encrypted_text: zR4oT6clVajaUFZZzyIUPNZobAMgsG5P0lw+GuCnweNgARTSJOB39k/QfAC3u71Pdl37uk922OfxiElijXZby7Mz5BtZyg/4u0G3+YaNivySxzjnB5TvKTwg8c91oTUDvyd3Uf9fDNfyl0X8HliDuC0VqPAjp4/mtWY/UPSbn+SRJF5O0RS4MOP5hm2b9pB9y21qK2IETELkLjCkdh2AJ3UMU1xpc1wkYnX0mREAdkbYlVKnsQRbzKT5T9SPICOF9gG36uIBox03uYxeeY0zt4VDteIpqFaxdj3hzZ9YYhtkg0BkjNRYdmOt6NBJ5WudDLvHsKOdOsR8D1GKbv3TAxo4YzDSY/c56JVFUrDcrzxdNNg8aCOup+7Eh4+r2YI3nYhO3H3zDuy4sFDGPKt/eA4RUhSWLCRIr+Fy/3YJSsBetNsWiBXebmogpfL8QlX9YzWL0tlRTKiFkMTRuyuOobzxmOkpg/oiv273liSu3JSU5GIhM4JV98XUDe9/xnsAJXnmPImBxgttMp17D4H+5mEoO4EfrMNRp4Lb8R94bKul9sBraxBs87KchM+aokDJaOKbrcT/xDwtpXEUSLeExtGCDSDufaSZlFHefgJL13n1FGUE5VsZFppKTCRaqrhu21IraKmvC5VmoC1XFckRcS+UBBECgH9FWM3n1NFm4g7vZbmC+DU9FRd96tol6kgH++ADLqQI4BM+epDAg+SRzJ3HnoNvOBab9Xj/mLjPoPcDAM9uQSFtOisbM6wBLejw+gvwYYksddhvw78ZboOuvQ==
+    learner_created: false
+  - name: src/main/kotlin/PreDefinedSymbols.kt
+    visible: false
+    encrypted_text: Oy/gDnbNPSzsPCVDBSqOQtTlcmYKMKwKApioNU2YglewAnu1hEvChXhIObEz3Dmnytgw7A37+ozUaQGtA8nZ1kNiHVARU5L5U0maBRThow+gescQNF8y+67KOcf4WRuKtliKaCw7svhDXjxcmz0dHZ13bGZduscE8mYGf3Dg/WfS8LDIPVhqJr3XtUeV6qXR9ihVxDljjDKuNcj2eKJFzVuOLtalEkjPS3/AP/9QbOiPDBnFedJsGVcx5xl9PjP7Rz/zTpqvn9wWrOAlw3zgkDwruhXBP7Tb6h2BuFHgB2MqyMU5poZOJFSJHDrjZhS9MFpDMEGL4RAO87ryuPuHSlq7I52b+KCtyDtrmNZP6u19QKenvn7GT/vEEaDo+H6t
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/Last+push/Patterns+generator+projects
+status: Unchecked
+record: -1
+post_submission_on_open: true
